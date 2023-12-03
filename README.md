@@ -11,6 +11,8 @@ You can play the original project on Scratch [here](https://scratch.mit.edu/proj
 using the converter by [Leopard](https://leopardjs.com/)--with minor code editing. 
 The game runs much faster in JavaScript if you'd prefer to play this version.
 
+'Kentucky Fried Showdown in Scratch' is a file of the Scratch project.
+
 
 ## Game Instructions
 - Press the green flag to reset.
