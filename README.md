@@ -27,3 +27,5 @@ The game runs much faster in JavaScript if you'd prefer to play this version.
 - Attempt to dodge the vegetables and the FDA logo.
 - Each vegetable caught will take away 1 of your 3 lives, and catching the FDA logo will end the game.
 
+## Credits
+Music: Cotton Eyed Joe by Rednex
