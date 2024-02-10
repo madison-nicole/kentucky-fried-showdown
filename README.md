@@ -2,6 +2,9 @@
 Kentucky Fried Showdown is a catch game based on gathering fried chicken into the colonel's bucket, 
 complete with enemies to avoid and platforming movements in all directions.
 
+## The Game
+![](https://github.com/m-saylor/kentucky-fried-showdown/blob/main/Kentucky-Fried-Showdown-Demo.GIF)
+
 
 ## File Usage
 This project was originally created in Scratch, a high-level block-based visual programming language. 
