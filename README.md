@@ -3,7 +3,7 @@ Kentucky Fried Showdown is a catch game based on gathering fried chicken into th
 complete with enemies to avoid and platforming movements in all directions.
 
 ## The Game
-![](https://github.com/m-saylor/kentucky-fried-showdown/blob/main/Kentucky-Fried-Showdown-Demo.GIF)
+![](https://github.com/madison-nicole/kentucky-fried-showdown/blob/main/Kentucky-Fried-Showdown-Demo.GIF)
 
 
 ## File Usage
